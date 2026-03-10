@@ -81,7 +81,7 @@ No installation or dependencies are required.
 Add a screenshot of the project here:
 
 ```
-![Jumping Letters Screenshot](screenshot.png)
+![Jumping Letters Screenshot](./screenshot.png)
 ```
 
 ---
